@@ -1,0 +1,16 @@
+.mainacc .accordion-button{
+    background-color: #fff;
+    box-shadow: none;
+    color: #000;
+    border: 1px solid #d3cbcb9c;
+ 
+}
+
+.accbody{
+    border: 1px solid #d3cbcb9c;
+    border-radius: 0 0 12px 12px;
+}
+
+.accitm{
+    border: none !important;
+}
