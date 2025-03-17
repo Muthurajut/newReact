@@ -34,7 +34,7 @@ const ColorSection = () => {
                         </Col>
 
                         <Col md={7} className="my-auto ps-5">
-                            <h2 className="redh2">WE THINK DIGITAL & BREATHE DESIGN</h2>
+                            <h2 className="redh2">WE THINK DIGITAL & BREATHE DESIGN IS BEST FOR SEO</h2>
                             <p className="defpara mt-3">At Bud, we go above & beyond the focus of an ordinary digital marketing agency in Bangalore, and stand with you as creative digital partners. Media-savvy marketers, creative writers & designers, tech heads & web experts come together to develop integrated communications & digital solutions that drive your business objectives forward on the #BudDigitalLane.</p>
                             <p className="defpara">This multi-industry and multi-dimensional approach has helped us establish win-win relationships with our clients across industries - Real Estate, FMCG, Furniture, Broadband & Telecom, etc. elevating our stature as one of the best digital marketing agencies in Bangalore.</p>
 
