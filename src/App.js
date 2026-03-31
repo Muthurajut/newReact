@@ -9,6 +9,7 @@ import ColorSection from './components/ColorSection';
 function App() {
   return (
     <div>
+      
       <NavbarComponent />
       <MyBanner />
       <ColorSection />

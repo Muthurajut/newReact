@@ -1,6 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import './ColorSection.css';
+import imgh from '../assets/images/newyork1.webp'
 
 const ColorSection = () => {
     return (
@@ -31,7 +32,7 @@ const ColorSection = () => {
                 <Container>
                     <Row>
                         <Col md={5}>
-                            <img src="https://www.budindia.com/images/digital-marketing/img1.png" className='img-fluid' alt="sm-image" />
+                            <img src={imgh} className='img-fluid' alt="sm-image" />
                         </Col>
 
                         <Col md={7} className="my-auto ps-5">

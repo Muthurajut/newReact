@@ -1,6 +1,7 @@
 import React from 'react';
 import { Accordion, Container, Row, Col } from 'react-bootstrap';
 import './MyAccordionWithImage.css';
+import imgd from '../assets/images/imgtwo22.jpg'
 
 
 const MyAccordionWithImage = () => {
@@ -10,7 +11,7 @@ const MyAccordionWithImage = () => {
 
                 <Col md={6} className='p-0 my-auto'>
                     <img
-                        src="https://images.unsplash.com/photo-1575936123452-b67c3203c357?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D"  // Replace this with your actual image URL or import
+                        src={imgd}  // Replace this with your actual image URL or import
                         alt="Example"
                         className="img-fluid"
                     />
